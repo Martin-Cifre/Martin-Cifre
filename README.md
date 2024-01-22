@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Martin Cifre!👩🏻‍🦲</h1>
-<h3 align="center">Soy un desarrollador full stack, forjando mi visión del mundo digital paso a paso desde Buenos Aires 🇦🇷</h3>
+<h3 align="center">Soy desarrollador full stack, forjando mi visión del mundo digital paso a paso desde Buenos Aires 🇦🇷</h3>
 <h1></h1>
 <p>Graduado de Digital House con más de 450 horas de curso y mas tiempo invertido tambien en proyectos propios, mi enfoque abarca desde la planificación y el diseño hasta la resolución de problemas del mundo real mediante código.
 
