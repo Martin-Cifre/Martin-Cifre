@@ -7,7 +7,7 @@ Con una sólida formación previa como diseñador gráfico, poseo habilidades en
 
 En búsqueda de oportunidades desafiantes que me permitan continuar mi crecimiento como profesional del desarrollo. ¡Hablemos sobre cómo podemos construir juntos el futuro digital!</p>
 
-<p>Visita mi portfolio haciendo click <a href="https://portfolio-react-pink-omega.vercel.app/" target="_blank" rel="noopener noreferrer"> <b>aqui</b></a> </p>
+<p>🗃️ Visita mi portfolio haciendo click <a href="https://portfolio-react-pink-omega.vercel.app/" target="_blank" rel="noopener noreferrer"> <b>aqui</b></a> </p>
 <h3 align="right">💻¡Hablemos sobre cómo podemos construir juntos el futuro digital! </h3>
 
 
