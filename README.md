@@ -6,12 +6,14 @@
 Con una sólida formación previa como diseñador gráfico, poseo habilidades en software de Adobe enfocados al campo. Mi pasión por el desarrollo web se combina con una mentalidad creativa y analítica, creando soluciones desde cero.
 
 En búsqueda de oportunidades desafiantes que me permitan continuar mi crecimiento como profesional del desarrollo. ¡Hablemos sobre cómo podemos construir juntos el futuro digital!</p>
+
+<p>Visita mi portfolio haciendo click <a href="https://portfolio-react-pink-omega.vercel.app/" target="_blank" rel="noopener noreferrer"> <b>aqui</b></a> </p>
 <h3 align="right">💻¡Hablemos sobre cómo podemos construir juntos el futuro digital! </h3>
 
 
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/martin-rodriguez-cifre/" target="_blank">
+  <a href="https://www.linkedin.com/in/martin-rodriguez-cifre/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
